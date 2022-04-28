@@ -11,7 +11,7 @@ python/ Colab / Jupyter Notebook and data
 ## Data:
 https://yale-lily.github.io/spider
 or
-"train_spider.json" (*Please change the path  of the file according to where the data is stored in your system)
+"train_spider.json" (*Please change the path  of the file while loading the data in the code accordingly)
 
 ## RUN: 
  run "NaturalLanguagetoSQL_Seq2Seq.ipynb" file
