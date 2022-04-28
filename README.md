@@ -15,5 +15,6 @@ or
 
 ## RUN: 
  run "NaturalLanguagetoSQL_Seq2Seq.ipynb" file
-Authors
+
+## Author
 @Rishali
